@@ -20,6 +20,6 @@
 ## 📫 Connect with Me  
 - **GitHub:** [RajeshQuintus](https://github.com/RajeshQuintus)  
 - **LinkedIn:** [Rajesh Nagar](https://www.linkedin.com/in/rajesh4576)  
-- **Email:** [your-email@example.com](mailto:rajesh11022002@gmail.com)  
+- **Email:** [rajesh11022002@gmail.com](mailto:rajesh11022002@gmail.com)  
 
 💡 **Let’s Build Something Amazing Together!**  
